@@ -4,4 +4,6 @@ Dataset/data.csv
 
 
 
-/images/
+images/
+Dataset/images/
+*.joblib
